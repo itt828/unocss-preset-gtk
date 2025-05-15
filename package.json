@@ -1,0 +1,12 @@
+{
+    "$schema": "https://json.schemastore.org/package.json",
+    "name": "@itt/unocss-preset-gtk",
+    "scripts": {
+        "format": "biome format . --write",
+        "lint": "biome check . --write"
+    },
+    "devDependencies": {
+        "@biomejs/biome": "^1.9.4",
+        "unocss": "^66.1.1"
+    }
+}

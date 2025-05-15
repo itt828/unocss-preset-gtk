@@ -1,0 +1,9 @@
+{
+    "$schema": "https://json.schemastore.org/tsconfig",
+    "compilerOptions": {
+        "moduleResolution": "Bundler",
+        "strict": true,
+        "target": "ESNext",
+        "module": "ESNext",
+    }
+}
